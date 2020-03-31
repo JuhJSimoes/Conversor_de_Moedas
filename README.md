@@ -1,6 +1,6 @@
-# Projeto Flutter Contador
+# Projeto Flutter Conversor de Moedas
 
-Novo projeito de Flutter iniciante - Contador.
+Novo projeito de Flutter iniciante - Converte real, dolar e euro.
 
 ## Getting Started
 
